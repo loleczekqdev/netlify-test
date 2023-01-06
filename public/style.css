@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 65px;
+    text-align: center;
+    ;
+
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+
+}
+
+h3 {
+    font-size: 32px;
+    background-color: black;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+p {
+    color: rgb(73, 73, 73);
+    font-size: 18px;
+    margin-left: 50px;
+    
+    padding: 5px;
+}
+
+li {
+    color: rgb(83, 70, 70);
+    font-size: 25px;
+    margin-left: 10px;
+
+}
+.content {
+width: 400px;
+
+padding: 20px;
+overflow: hidden;
+}
+
+.content img {
+margin-right: 15px;
+float: left;
+width: 50%;
+}
+
+.content h3,
+.content p{
+margin-left: 15px;
+display: block;
+margin: 2px 0 0 0;
+}
+
+.strona{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
