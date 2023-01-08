@@ -1,0 +1,3 @@
+[submodule "netlify-test"]
+	path = netlify-test
+	url = https://github.com/loleczekqdev/netlify-test/
